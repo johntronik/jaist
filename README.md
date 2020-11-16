@@ -1,6 +1,4 @@
-jaistの講義をgoogleカレンダーに登録したい
+jaist東京の講義をgoogleカレンダーに登録したい
 
-1. colabを開く
-2. 自分の講義を選択する
-3. csvをダウンロードする
-4. google カレンダーにインポートする
+heroku app作ったのでこちらをご利用ください
+https://jaist-tokyo-lecture.herokuapp.com/
